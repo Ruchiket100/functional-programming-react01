@@ -1,0 +1,31 @@
+body {
+  background: #faf5ff;
+}
+h1,
+h2,
+p {
+  font-family: roboto, sans-serif;
+  text-align: center;
+}
+
+h1,
+h2 {
+  color: #581c87;
+}
+
+p {
+  color: #7e22ce;
+}
+
+.clock-div {
+  border: 1px solid #7e22ce;
+  background-color: #d8b4fe;
+  max-width: fit-content;
+  padding: 1rem 3rem;
+  margin: auto;
+}
+
+.clock-time {
+  color: #d946ef;
+  font-size: 4rem;
+}
